@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pera Şarap</title>
+    <link>https://perasarap.github.io/posts/</link>
+    <description>Recent content in Posts on Pera Şarap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Wed, 06 Sep 2023 13:39:37 +0300</lastBuildDate><atom:link href="https://perasarap.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pera Şarap</title>
+      <link>https://perasarap.github.io/posts/pera-sarap/</link>
+      <pubDate>Wed, 06 Sep 2023 13:39:37 +0300</pubDate>
+      
+      <guid>https://perasarap.github.io/posts/pera-sarap/</guid>
+      <description>Merhaba! Pera Şarap sitesine hoşgeldiniz. Buradaki içerikler üyeler tarafından oluşturulmuştur.
+Club Pera iletişim için Pera</description>
+    </item>
+    
+  </channel>
+</rss>
