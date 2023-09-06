@@ -1,7 +1,7 @@
 +++
 title = 'Pera Şarap'
 date = 2023-09-06T13:39:37+03:00
-draft = true
+draft = false
 +++
 
 ## Merhaba!

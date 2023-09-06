@@ -5,6 +5,27 @@
     <link>https://perasarap.github.io/</link>
     <description>Recent content on Pera Şarap</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>tr-TR</language><atom:link href="https://perasarap.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>tr-TR</language>
+    <lastBuildDate>Wed, 06 Sep 2023 14:16:50 +0300</lastBuildDate><atom:link href="https://perasarap.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hakkında</title>
+      <link>https://perasarap.github.io/pages/about/</link>
+      <pubDate>Wed, 06 Sep 2023 14:16:50 +0300</pubDate>
+      
+      <guid>https://perasarap.github.io/pages/about/</guid>
+      <description>Merhaba! Pera Şarap sitesine hoşgeldiniz. Buradaki içerikler üyeler tarafından oluşturulmuştur.
+Club Pera iletişim için Pera</description>
+    </item>
+    
+    <item>
+      <title>Pera Şarap</title>
+      <link>https://perasarap.github.io/posts/pera-sarap/</link>
+      <pubDate>Wed, 06 Sep 2023 13:39:37 +0300</pubDate>
+      
+      <guid>https://perasarap.github.io/posts/pera-sarap/</guid>
+      <description>Merhaba! Pera Şarap sitesine hoşgeldiniz. Buradaki içerikler üyeler tarafından oluşturulmuştur.
+Club Pera iletişim için Pera</description>
+    </item>
+    
   </channel>
 </rss>
